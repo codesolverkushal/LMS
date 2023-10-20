@@ -1,17 +1,15 @@
 
-import './App.css'
-import { Routes } from 'react-router-dom'
-
-
+import "./App.css";
+// import { Routes } from "react-router-dom";
+import Footer from "./Components/Footer";
 
 function App() {
-  
-
   return (
     <>
-      <h1>Learning management system</h1>
+      <Footer/>
+      
     </>
-  )
+  );
 }
 
-export default App
+export default App;
