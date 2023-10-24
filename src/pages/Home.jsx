@@ -28,7 +28,10 @@ function Home() {
                 </div>
 
                 <div className="w-1/2 flex items-center justify-center">
-                    <img src="https://elearningindustry.com/wp-content/uploads/2015/10/6-convincing-reasons-take-elearning-course.jpg"  alt="home page" className="rounded-full  hover:opacity-75 transition-opacity duration-1000" />
+                    {/* <img src="https://elearningindustry.com/wp-content/uploads/2015/10/6-convincing-reasons-take-elearning-course.jpg"  alt="home page" className="rounded-full hover:opacity-75 transition-opacity duration-1000" /> */}
+                    {/* <img src="https://onpassive.com/blog/wp-content/uploads/2021/01/E-Learning-in-Artificial-Intelligence-Based-Platform.gif"  alt="home page" className="rounded hover:opacity-75 transition-opacity duration-1000" /> */}
+                    <img src="https://onpassive.com/blog/wp-content/uploads/2021/01/E-Learning-in-Artificial-Intelligence-Based-Platform.gif" alt="home page" class="rounded-full border-4 border-pink-500 hover:opacity-75 filter brightness-125 hover:brightness-100 transform rotate-0  transition-all duration-1000 hover:scale-110 hover:rotate-360" />
+
                 </div>
 
             </div>
